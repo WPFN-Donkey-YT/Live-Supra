@@ -1,0 +1,91 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "My other works: https://steamcommunity.com/sharedfiles/filedetails/?id=1715280001\n\nMusic: Tension - HXVRMXN\nYouTube Music: https://www.youtube.com/watch?v=X_Iubnp8zrU\nSoundcloud: https://soundcloud.com/hxvrmxn/tension-3\nvk: https://vk.com/hxvrmxnphonk\n\nMy youtube: https://www.youtube.com/channel/UCKs55vvcXX0JoUztu1klUyw\n\n_______________________________________________________________\n\nUsed assets:\nRain Sliding Over Window: https://steamcommunity.com/sharedfiles/filedetails/?id=2098184293\nIdle mouse cursor snoozes: https://steamcommunity.com/sharedfiles/filedetails/?id=2097549174\nRain Splash Particle (2): https://steamcommunity.com/sharedfiles/filedetails/?id=2128373241\nRaindrops on glass splatter:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2077591463\nCutout Vignette:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2138904733",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"audioresposive" : 
+			{
+				"order" : 103,
+				"text" : "Audio responsive",
+				"type" : "bool",
+				"value" : true
+			},
+			"changecolor" : 
+			{
+				"order" : 101,
+				"text" : "Change color",
+				"type" : "bool",
+				"value" : false
+			},
+			"changecolorcolor" : 
+			{
+				"order" : 102,
+				"text" : "Change color (color)",
+				"type" : "color",
+				"value" : "0.41568627450980394 0.12156862745098039 0.37254901960784315"
+			},
+			"musichxvrmxntension" : 
+			{
+				"fraction" : true,
+				"max" : 1,
+				"min" : 0,
+				"order" : 105,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Music: HXVRMXN - Tension",
+				"type" : "slider",
+				"value" : 0.29999999999999999
+			},
+			"newproperty" : 
+			{
+				"fraction" : true,
+				"max" : 1,
+				"min" : 0,
+				"order" : 100,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Change color (transparence)",
+				"type" : "slider",
+				"value" : 1
+			},
+			"rainaudio" : 
+			{
+				"fraction" : true,
+				"max" : 1,
+				"min" : 0,
+				"order" : 106,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Rain (audio)",
+				"type" : "slider",
+				"value" : 0.29999999999999999
+			},
+			"raindropsplatter" : 
+			{
+				"order" : 104,
+				"text" : "raindrop splatter",
+				"type" : "bool",
+				"value" : false
+			},
+			"schemecolor" : 
+			{
+				"order" : 100,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.416 0.122 0.373"
+			}
+		},
+		"supportsaudioprocessing" : true
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Vehicle" ],
+	"title" : "Mazda rx7 (Audio responsive)",
+	"type" : "scene",
+	"version" : 4,
+	"visibility" : "public",
+	"workshopid" : "2307545520",
+	"workshopurl" : "steam://url/CommunityFilePage/2307545520"
+}
